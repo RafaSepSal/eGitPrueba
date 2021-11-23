@@ -4,6 +4,6 @@ public class HolaGIT {
 		
 		System.out.println("Hola GIT");
 		
-		
+		String nombre = "Rafa";
 	}
 }
